@@ -10,7 +10,7 @@ This README contains links to my data engineering portfolio projects and learnin
 - Tools Used: Python, PostgreSQL, Docker, Airflow, Kafka, Spark, Cassandra, Zookeeper
 - Built a robust, scalabale, and fault-tolerant pipeline using a modern tech stack. The pipeline ingests, processes, and stores random user-generated data from an API. 
 
-[**Azure Medallion Architecture**](https://github.com/ndomah/Azure-Medallion-Pipeline)
+[**Azure Medallion Architecture Pipeline**](https://github.com/ndomah/Azure-Medallion-Pipeline)
 - Tools Used: Python, SQL, Azure, dbt, Databricks
 - Implemented a complete data engineering pipeline using the Medallion Architecture (Bronze, Silver, and Gold layers) within Azure Databricks. It integrates several Azure services and dbt (Data Build Tool) to orchestrate data ingestion, transformation, and storage, ensuring a robust, scalable, and secure solution.
 
